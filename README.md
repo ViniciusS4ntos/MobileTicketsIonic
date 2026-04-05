@@ -10,13 +10,13 @@ Sistema de Controle de Atendimento para laboratórios médicos.
 ## Telas do Projeto
 
 ### Cliente
-![Cliente](screenshots/tab1.png)
+![Cliente](screenshots/tab1.jpeg)
 
 ### Atendente
-![Atendente](screenshots/tab2.png)
+![Atendente](screenshots/tab2.jpeg)
 
 ### Relatórios
-![Relatorios](screenshots/tab3.png)
+![Relatorios](screenshots/tab3.jpeg)
 
 ## Como Executar
 ```bash
